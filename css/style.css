@@ -52,5 +52,9 @@ nav ul li a:hover {
 @media screen and (max-width: 470px) {
     body {
         background: url(../img/headshot.png) no-repeat -100px fixed; 
+        -webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
     }
 }
