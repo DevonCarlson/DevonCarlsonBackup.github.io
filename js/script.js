@@ -30,5 +30,9 @@ var videos = [
 function randomizeVideo(){
 	var index = Math.floor(Math.random()*(24-0+1)+0);
 	var video = videos[index];
-	window.location.replace(video);
+	// window.location.replace(video);
+	window.open(
+	  video,
+	  '_blank' // <- This is what makes it open in a new window.
+	);
 }
