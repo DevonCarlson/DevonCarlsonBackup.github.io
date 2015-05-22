@@ -20,7 +20,6 @@ var videos = [
 function randomizeVideo(){
 	var size  = videos.length-1; 
 
-
 	var index = Math.floor(Math.random()*(size-0+1)+0);
 	if(used_indexes.length == videos.length){
 		used_indexes = [];
@@ -29,8 +28,6 @@ function randomizeVideo(){
 		index = Math.floor(Math.random()*(size-0+1)+0);
 	}
 	used_indexes.push(index);
-
-	console.log(used_indexes);
 
 	var video = videos[index];
 	// swindow.location.replace(video);
