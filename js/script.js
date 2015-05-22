@@ -1,4 +1,3 @@
-
 var videos = [
 	"https://www.youtube.com/watch?v=DQ7zStSis_k&output=embed",
 	"https://www.youtube.com/watch?v=N6K-aRg2NLk&output=embed",
@@ -16,7 +15,7 @@ var videos = [
 ];
 
 function randomizeVideo(){
-	var index = Math.floor(Math.random()*(24-0+1)+0);
+	var index = Math.floor(Math.random()*(12-0+1)+0);
 	var video = videos[index];
 	window.location.replace(video);
 }
