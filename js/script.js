@@ -30,5 +30,5 @@ var videos = [
 function randomizeVideo(){
 	var index = Math.floor(Math.random()*(24-0+1)+0);
 	var video = videos[index];
-	window.location.href = video;
+	window.location.replace(video);
 }
