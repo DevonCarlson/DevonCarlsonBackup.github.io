@@ -12,14 +12,12 @@ var videos = [
     "https://www.youtube.com/v/BxjMGiN0jJY&feature=youtu.be",
     "https://www.youtube.com/v/DQ7zStSis_k",
     "https://www.youtube.com/v/bmxACZd36jA#t=2m0s"
-
-
-
 ];
 
 
 function randomizeVideo(){
-	var index = Math.floor(Math.random()*(24-0+1)+0);
+	var size  = videos.length; 
+	var index = Math.floor(Math.random()*(size-0+1)+0);
 	var video = videos[index];
 	// swindow.location.replace(video);
 	window.open(
