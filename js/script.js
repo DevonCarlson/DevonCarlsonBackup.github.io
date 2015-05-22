@@ -14,7 +14,7 @@ var videos = [
 	"https://www.youtube.com/v/BxjMGiN0jJY&feature=youtu.be",
 	"https://www.youtube.com/v/eqsAvKqqf2g&feature=youtu.be",
 	"https://www.youtube.com/v/32nkdvLq3oQ",
-	"https://www.youtube.com/v/=jlTD08isBzo",
+	"https://www.youtube.com/v/jlTD08isBzo",
 	"https://www.youtube.com/v/da0uZmijmdE",
 	"https://www.youtube.com/v/YuS7iToVsa4#t=2m0s",
 	"https://www.youtube.com/v/niEYaeYa72U#t=0m7s",
