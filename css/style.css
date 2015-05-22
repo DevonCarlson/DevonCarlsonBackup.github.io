@@ -48,3 +48,9 @@ nav ul li a:hover {
 	font-weight: 300;
 	cursor: pointer;
 }
+
+@media screen and (max-width: 300px) {
+    body {
+        background: url(../img/headshot.png) no-repeat -100px fixed; 
+    }
+}
