@@ -9,7 +9,11 @@ var videos = [
     "https://www.youtube.com/v/Uhky7pALFSA&start=125&autoplay=1",
     "https://www.youtube.com/v/fnkaI8pkhXs&start=160&autoplay=1",
     "https://www.youtube.com/v/ViLwNTgfNS8&autoplay=1",
-    "https://www.youtube.com/v/hDXvtqvXL54&autoplay=1"
+    "https://www.youtube.com/v/hDXvtqvXL54&autoplay=1",
+    "https://www.youtube.com/v/-SomEwQ6L_s&autoplay=1",
+    "https://www.youtube.com/v/BxjMGiN0jJY&feature=youtu.be&autoplay=1",
+    "https://www.youtube.com/v/DQ7zStSis_k&autoplay=1",
+    "https://www.youtube.com/v/bmxACZd36jA&start=120&autoplay=1"
 ];
 
 
