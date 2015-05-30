@@ -8,7 +8,6 @@ var videos = [
 	"https://www.youtube.com/v/F07zOFLf5rk&autoplay=1",
     "https://www.youtube.com/v/Uhky7pALFSA&start=125&autoplay=1",
     "https://www.youtube.com/v/fnkaI8pkhXs&start=160&autoplay=1",
-    "https://www.youtube.com/v/ViLwNTgfNS8&autoplay=1",
     "https://www.youtube.com/v/hDXvtqvXL54&autoplay=1"
 ];
 
