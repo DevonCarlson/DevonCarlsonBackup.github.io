@@ -23,8 +23,8 @@ body {
 
 nav {
 	position:absolute;
-	right:500px;
-	top:475px;
+	right:100px;
+	top:100px;
 }
 
 nav ul {
@@ -36,11 +36,11 @@ nav ul li {
 	margin-bottom: 50px;
 	font-size:50px;
 	text-align:right;
-	color:#000;
+	color:#FFF;
 }
 
 nav ul li a {
-	color:#000;
+	color:#FFF;
 	text-decoration: none;
 }
 
@@ -48,6 +48,16 @@ nav ul li a:hover {
 	font-weight: 300;
 	cursor: pointer;
 }
+
+.overlay{
+
+position: absolute;
+left: 0; top: 0;
+bottom: 0; right: 0;
+display: none;
+}
+
+
 
 /*@media screen and (max-width: 1100px) {
     body {
