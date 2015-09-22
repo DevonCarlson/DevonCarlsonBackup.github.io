@@ -2,7 +2,8 @@
 var used_indexes = [];
 
 var videos = [
-	"https://www.youtube.com/watch?v=9Q9niHvP0g8autoplay=1"
+	"https://www.google.ca/search?q=teacup+pomeranian&client=safari&rls=en&biw=1280&bih=663&source=lnms&tbm=isch&sa=X&sqi=2&ved=0CAYQ_AUoAWoVChMIvcnO0tyJyAIVRxweCh1c6wgk
+"
 ];
 
 
@@ -25,3 +26,5 @@ function randomizeVideo(){
 	  '_blank' // <- This is what makes it open in a new window.
 	);
 }
+
+//"https://www.youtube.com/watch?v=9Q9niHvP0g8autoplay=1"
