@@ -2,8 +2,8 @@
 var used_indexes = [];
 
 var videos = [
-	"https://www.google.ca/search?q=teacup+pomeranian&client=safari&rls=en&biw=1280&bih=663&source=lnms&tbm=isch&sa=X&sqi=2&ved=0CAYQ_AUoAWoVChMIvcnO0tyJyAIVRxweCh1c6wgk
-"
+
+	"http://tinyurl.com/o4dwhql"
 ];
 
 
