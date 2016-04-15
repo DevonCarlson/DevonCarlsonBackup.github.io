@@ -42,7 +42,7 @@ function randomizeLink(){
 	}
 
 	var animal = document.getElementById("animallink");
-	animal.src = animals[animals[index]];
+	animal.href = animals[animals[index]];
 
 }
 
