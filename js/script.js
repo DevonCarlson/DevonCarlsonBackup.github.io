@@ -42,7 +42,8 @@ function randomizeLink(){
 	}
 
 	var animal = document.getElementById("animallink");
-	animal.href = animals[animals[index]];
+	animal.href = animals[index];
+	console.log(animals[index]);
 
 }
 
