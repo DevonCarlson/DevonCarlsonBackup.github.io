@@ -8,14 +8,14 @@ var videos = [
 
 var animals = [
 
+"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643",
 	"https://www.google.ca/search?q=teacup+pomeranians&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj8h6zkkZHMAhWHHD4KHQZMBYIQ_AUIBygB&biw=1280&bih=643",
 	"https://www.google.ca/search?q=baby+dik+dik&client=safari&rls=en&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiA89LsoJHMAhUquoMKHXVZBS8QsAQIGw&biw=1280&bih=643",
-	"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643",
 	"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643#tbm=isch&q=baby+fox",
 	"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643#tbm=isch&q=baby+goat",
 	"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643#tbm=isch&q=baby+beluga+whale",
 	"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643#tbm=isch&q=baby+puffer+fish",
-	"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643#tbm=isch&q=baby+raccoon",
+	"https://www.google.ca/search?q=long+haired+chihuahua&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6kdTvoJHMAhULnIMKHdIlB7AQ_AUIBygB&biw=1280&bih=643#tbm=isch&q=baby+raccoon"
 	
 ];
 
