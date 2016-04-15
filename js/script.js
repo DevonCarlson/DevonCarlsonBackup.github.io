@@ -3,7 +3,7 @@ var used_indexes = [];
 
 var videos = [
 
-	"http://tinyurl.com/o4dwhql"
+	"https://www.linkedin.com/in/devoncarlson1"
 ];
 
 
@@ -28,3 +28,4 @@ function randomizeVideo(){
 }
 
 //"https://www.youtube.com/watch?v=9Q9niHvP0g8autoplay=1"
+//"http://tinyurl.com/o4dwhql"
