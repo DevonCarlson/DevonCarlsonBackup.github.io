@@ -4,10 +4,6 @@
 	font-weight: 100;
 }
 
-
-
-
-
 html{
 	height:100%;
 	margin: 0;
@@ -42,7 +38,6 @@ nav ul li {
 	text-align:right;
 	color:#FFF;
 
-	font-size: 4.9vw;
 
 }
 
@@ -55,6 +50,8 @@ nav ul li a:hover {
 	font-weight: 300;
 	cursor: pointer;
 }
+
+
 
 
 
