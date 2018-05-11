@@ -23,7 +23,7 @@ body {
 
 nav {
 	position:absolute;
-	right:100px;
+	right:30px;
 	top:100px;
 }
 
@@ -37,8 +37,6 @@ nav ul li {
 	font-size:50px;
 	text-align:right;
 	color:#FFF;
-
-
 }
 
 nav ul li a {
@@ -50,10 +48,6 @@ nav ul li a:hover {
 	font-weight: 300;
 	cursor: pointer;
 }
-
-
-
-
 
 /*@media screen and (max-width: 1100px) {
     body {
